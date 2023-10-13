@@ -24,7 +24,7 @@
   <h3>Contact Me</h3>
   
   <div >
-    <a href="https://dev.to/danielbellmas" target="_blank">
+    <a href="https://dev.to/payamx" target="_blank">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=black"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
