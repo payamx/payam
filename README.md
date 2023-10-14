@@ -1,11 +1,8 @@
-<div align="center">
+<div >
 <h1>Main Tech Stack</h1>
-<div style="display: flex; flex-direction: row;
- >
+<div align="start">
  <div>
-
  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css,bootstrap,tailwind,materialui,git,github,figma,idea,vscode,wordpress&perline=5" alt="Tech Stack" /> 
- 
 </div>
   <br/>
   
