@@ -40,8 +40,4 @@
 
 <br />
 
-  <a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
-    <img alt="The Tree of Life" src="https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png" />
-  </a>
-
 </div>
