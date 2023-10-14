@@ -1,6 +1,9 @@
 <div align="center">
 <h1>Main Tech Stack</h1>
-<div style={display:"flex"}>
+<div class={
+	display: flex;
+	flex-direction: row;
+} >
  <div>
 
  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css,bootstrap,tailwind,materialui,git,github,figma,idea,vscode,wordpress&perline=5" alt="Tech Stack" /> 
