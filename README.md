@@ -2,7 +2,7 @@
 <h1>Main Tech Stack</h1>
  
  <div >
- <img src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css,bootstrap,tailwind,materialui,git,github,figma,idea,vscode,wordpress&perline=7" alt="Tech Stack" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css,bootstrap,tailwind,materialui,git,github,idea,vscode,wordpress&perline=7" alt="Tech Stack" /> 
      
 </div>
  
