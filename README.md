@@ -4,7 +4,7 @@
  <div align="start">
  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css,bootstrap,tailwind,materialui,git,github,figma,idea,vscode,wordpress&perline=5" alt="Tech Stack" /> 
 </div>
-  <br/>
+ 
   
 <div align="end">
     <a href="https://github.com/payamx">
@@ -12,7 +12,6 @@
     </a>
 </div>
 
-<br />
 </div>
 
  
