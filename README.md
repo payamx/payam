@@ -30,9 +30,7 @@
    <a href="https://medium.com/@dbalmas7" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black"/>
    </a>&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/14831834/daniel-bellmas" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black">
-    </a>&nbsp;&nbsp;
+  
  
    <img src="https://komarev.com/ghpvc/?username=payamx&style=flat-square&color=blue" alt="payamx"/>
 
