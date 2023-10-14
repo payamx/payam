@@ -1,7 +1,7 @@
 <div align="center" >
 <h1>Main Tech Stack</h1>
  
- <div align="start">
+ <div >
  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css,bootstrap,tailwind,materialui,git,github,figma,idea,vscode,wordpress&perline=5" alt="Tech Stack" /> 
       <a href="https://github.com/payamx">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&layout=compact&theme=tokyonight&langs_count=6" />
