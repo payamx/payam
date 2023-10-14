@@ -7,8 +7,7 @@
  
 </div>
   
-  <br />
-  
+ 
 <div>
     <a href="https://github.com/payamx">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&layout=compact&theme=tokyonight&langs_count=6" />
