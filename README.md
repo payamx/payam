@@ -39,6 +39,6 @@
 </div>
 
 <br />
-<p align="center" > برای پروژه های Gallery & weather-appبه دلیل  تحریم بودن apiباید از vpn استفاده کنید </p>
+<p align="center" > برای پروژه های Gallery & weather-appبه دلیل  تحریم بودن توجه  apiباید از vpn استفاده کنید! </p>
 
 </div>
