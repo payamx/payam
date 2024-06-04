@@ -39,8 +39,7 @@
 </div>
 
 <br />
-<p align="center" > برای پروژه های Gallery & weather-appبه دلیل  تحریم بودن   apiباید از vpn استفاده کنید! </p>
-<p align="center" > و پروژه های time & moviesاز api ایرانی استفاده شده که گاهی قطعی سرور رخ می دهد </p>
+<p align="center" > برای مشاهده دمو پروژه ها از vpn استفاده کنید !</p>
 
 
 </div>
